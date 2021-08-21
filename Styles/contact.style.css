@@ -1,0 +1,54 @@
+/* tag styles */
+
+
+/* class styles */
+/* general styles */
+
+
+
+/* ------------------------------------------------------ */
+/* header */
+
+
+/* ------------------------------------------------------ */
+/* content styles */
+.content {
+    background-color: #EFF0ED;
+    background-image: url("../Assets/78786.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.form-container {
+    padding: 30px;
+    width: 33%;
+    background-color: white;
+    margin-left: 30px;
+}
+
+.contact-label {
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.contact-input, .textarea {
+    width: 96%;
+    padding: 2%;
+    border-radius: 5px;
+    border: 1px solid #212121;
+    margin-top: 10px;
+}
+
+.textarea {
+    height: 100px;
+    resize: none;
+}
+
+.btn-submit {
+    margin-top: 20px;
+}
+
+.flex-right {
+    display: flex;
+    justify-content: flex-end;
+}
