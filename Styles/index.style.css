@@ -56,6 +56,11 @@ a {
     color: black;
 }
 
+a[href^=tel] {
+    text-decoration:inherit;
+    color: inherit;
+ }
+
 h2 {
     margin: 50px 0;
 }
