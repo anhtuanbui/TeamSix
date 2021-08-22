@@ -33,7 +33,7 @@
     }
 }
 
-/* add css for screen at mobile phone size */
+/* add css for screen at tablet size */
 @media only screen and (max-width: 660px) {
     /* header */
     .header-right {
@@ -58,15 +58,7 @@
 }
 
 /* add css for screen at mobile phone size */
-@media only screen and (max-width: 480px) {
-    body {
-        font-size: 12pt;
-    }
-    
-    li {
-        padding: 10px;
-    }
-
+@media only screen and (max-width: 600px) {
     .flex-items {
         width: 98%;
         padding-bottom: 20px;
@@ -75,6 +67,27 @@
 
     .flex-middle {
         margin: 0;
+    }
+    /* header */
+
+    /* content */
+
+    /* footer */
+   
+    .footer-items {
+        text-align: center;
+    }
+    
+}
+
+/* add css for screen at mobile phone size */
+@media only screen and (max-width: 480px) {
+    body {
+        font-size: 12pt;
+    }
+    
+    li {
+        padding: 10px;
     }
     /* header */
 
@@ -105,10 +118,6 @@
     /* footer */
     .text-large {
         font-size: x-large;
-    }
-
-    .footer-items {
-        text-align: center;
     }
     
 }
