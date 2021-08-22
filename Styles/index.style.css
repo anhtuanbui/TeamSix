@@ -56,11 +56,6 @@ a {
     color: black;
 }
 
-a[href^=tel] {
-    text-decoration:inherit;
-    color: white;
- }
-
 h2 {
     margin: 50px 0;
 }
@@ -224,7 +219,7 @@ h2 {
 .field {
     font-size: 0.9rem;
     padding: 2px 0;
-    color: white;
+    color: white !important;
 }
 
 .social-icon {
