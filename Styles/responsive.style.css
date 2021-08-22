@@ -1,0 +1,113 @@
+/* add css for screen at tablet size */
+@media only screen and (max-width: 1288px) {
+    /* header */
+
+    /* content */
+
+    /* footer */
+}
+
+/* add css for screen at tablet size */
+@media only screen and (max-width: 920px) {
+    h2 {
+        padding: 1%;
+    }
+    /* header */
+
+    /* content */
+    .flex-items {
+        padding: 0 1%;
+    }
+
+    .flex-middle {
+        margin: 0 5%;
+    }
+
+    .logo-items {
+        padding: 30px 10px;
+        max-width: 12%;
+    }
+
+    .form-container {
+        width: 50%;
+    }
+}
+
+/* add css for screen at mobile phone size */
+@media only screen and (max-width: 660px) {
+    /* header */
+    .header-right {
+        float: none;
+        text-align: center;
+    }
+
+    .header-left {
+        float: none;
+        text-align: center;
+    }
+
+    /* content */
+
+    .logo-items {
+        max-width: 12%;
+    }
+
+    .form-container {
+        width: 60%;
+    }
+}
+
+/* add css for screen at mobile phone size */
+@media only screen and (max-width: 480px) {
+    body {
+        font-size: 12pt;
+    }
+    
+    li {
+        padding: 10px;
+    }
+
+    .flex-items {
+        width: 98%;
+        padding-bottom: 20px;
+        text-align: left;
+    }
+
+    .flex-middle {
+        margin: 0;
+    }
+    /* header */
+
+    /* content */
+
+    .big-text {
+        font-size: xx-large;
+        -webkit-text-stroke: 1px white;
+    }
+
+    .logo-items {
+        max-width: 25%;
+    }
+
+    .text-main {
+        font-size: x-large;
+    }
+
+    .flex-4 {
+        width: 100%;
+    }
+
+    .form-container {
+        width: 88%;
+    }
+
+    /* footer */
+    .text-large {
+        font-size: x-large;
+    }
+
+    .footer-items {
+        text-align: center;
+    }
+    
+}
