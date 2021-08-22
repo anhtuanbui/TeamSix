@@ -58,7 +58,7 @@ a {
 
 a[href^=tel] {
     text-decoration:inherit;
-    color: inherit;
+    color: white;
 }
 
 h2 {
