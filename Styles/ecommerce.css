@@ -1,0 +1,17 @@
+.intro-photo {
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.tech-wrapper {
+    width: 400px;
+    height: 250px;
+}
+
+.ecommerce {
+    text-align: center;
+    /*border: black solid 1px;*/
+    border-radius: 15px;
+    box-shadow: 15px 15px 19px silver;
+    padding-bottom: 5px;
+}
