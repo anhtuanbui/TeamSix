@@ -90,6 +90,10 @@ h2 {
     background-color: #ffac0c;
 }
 
+.bg-orange:hover {
+    background-color: #ffb732;
+}
+
 .btn {
     cursor: pointer;
     border: none;
@@ -184,6 +188,7 @@ h2 {
     padding: 30px;
 }
 
+
 .flex-box {
     display: flex;
     justify-content: center;
@@ -215,6 +220,10 @@ h2 {
     text-decoration: underline;
 }
 
+.footer-link:hover {
+    opacity: 0.8;
+}
+
 .text-large {
     font-size: 2.5rem;
     text-align: center;
@@ -232,6 +241,10 @@ h2 {
     border: 3px solid white;
     border-radius: 50%;
     background-color: white;
+}
+
+.social-icon:hover{
+    filter: brightness(0.75);
 }
 
 .social-text {
