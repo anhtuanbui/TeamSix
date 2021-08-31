@@ -145,6 +145,10 @@ h2 {
     font-weight: bold;
 }
 
+.logo:hover {
+    text-shadow: 2px 2px 5px #ccc;
+}
+
 .logo-six {
     color: #2c82c9;
 }

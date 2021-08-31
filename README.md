@@ -5,4 +5,4 @@ This is the website was built for Assignment 4 - subject __ICT203 - Human Comput
 Check out the website at: https://anhtuanbui.github.io/TeamSix/
 
 @Credit  
-Icon https://www.flaticon.com/
+Icons https://www.flaticon.com/
