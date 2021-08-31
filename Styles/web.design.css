@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url(/Assets/webdev.jpeg);
+    background-image: url(../Assets/webdev.jpeg);
     background-size: cover;
 }
 
